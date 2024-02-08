@@ -2,7 +2,8 @@ minimum_cumulusci_version: '3.81.0'
 project:
     name: Food-Bank
     package:
-        name: n
+        name: Food-Bank
+        namespace: myawesomename7
         api_version: '55.0'
     git:
     source_format: sfdx
