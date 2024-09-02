@@ -3,7 +3,8 @@ project:
     name: Food-Bank
     package:
         name: Food-Bank
-        namespace: myawesomenames7
+        namespace: myawesomenames	
+
         api_version: '55.0'
     git:
     source_format: sfdx
